@@ -5,9 +5,8 @@ const mongoose = require('mongoose');
 const cookieParser = require('cookie-parser');
 
 const routes = require('./routes');
-// const cors = require('./middlewares/cors');
 
-const { PORT = 3001 } = process.env;
+const { PORT = 3000 } = process.env;
 
 const app = express();
 
