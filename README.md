@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 51.250.30.41
+IP 51.250.30.41
 
 Frontend https://mesto.evgeniiyar.nomoredomains.xyz
 
